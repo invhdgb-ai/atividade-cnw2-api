@@ -32,3 +32,4 @@ Cole na atividade o link do repositório GitHub e os dois links da Vercel (pági
 ## Rodar localmente (opcional)
 
 Crie `.env.local` com `DATABASE_URL=...` (use `.env.example` como referência), instale as dependências com `npm install` e execute `npm run dev`.
+Projeto publicado na Vercel
